@@ -1,0 +1,29 @@
+_repo: Herraskartano-ja-legendoja_48629
+contributor:
+  translator:
+    agent_name: Halonen, Maija
+    gutenberg_agent_id: '44890'
+    url: http://www.gutenberg.org/2009/agents/44890
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerloef, Selma
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2015-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48629'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Herraskartano ja legendoja
+url: http://www.gutenberg.org/ebooks/48629
